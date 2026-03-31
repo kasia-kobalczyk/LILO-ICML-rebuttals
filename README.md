@@ -1,4 +1,4 @@
-# LILO-ICML-rebuttals
+# Supplementary materials for LILO rebuttals
 
 This repository contains supplementery materials (Figures and Tables) for the ICML 2026 rebuttals of the paper: LILO: Bayesian Optimization with Natural Language Feedback.
 
